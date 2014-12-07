@@ -6,7 +6,7 @@
 # catalog-version 0.2.1
 Name:		texlive-resumecls
 Version:	0.2.1
-Release:	7
+Release:	8
 Summary:	Typeset a resumee in both Chinese and English
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/resumecls
