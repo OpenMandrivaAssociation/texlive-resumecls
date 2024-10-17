@@ -3,7 +3,7 @@ Version:	54815
 Release:	2
 Summary:	Typeset a resumee in both Chinese and English
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/resumecls
+URL:		https://www.ctan.org/tex-archive/macros/xetex/latex/resumecls
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/resumecls.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/resumecls.doc.r%{version}.tar.xz
